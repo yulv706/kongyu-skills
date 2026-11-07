@@ -1,0 +1,2 @@
+# Preserve the initial skill snapshot byte for byte, including existing line endings.
+* -text

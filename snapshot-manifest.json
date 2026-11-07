@@ -1,0 +1,581 @@
+{
+  "snapshot_date": "2026-11-07",
+  "skills": [
+    "kongyu-code-review",
+    "kongyu-ppt",
+    "kongyu-surface",
+    "kongyu-writing"
+  ],
+  "files": [
+    {
+      "path": "skills/kongyu-code-review/SKILL.md",
+      "size": 17789,
+      "sha256": "dbbb1fcacd4b0853a1e8c87eabf55db5af433fe9db9d4d57ad98efba1d2ea47e"
+    },
+    {
+      "path": "skills/kongyu-code-review/references/audit-dimensions.md",
+      "size": 5167,
+      "sha256": "8bd72a0c9894a2573ce6ded65c93b3b6fb5ca9e67a5b98a8cf4f4d6886f7534d"
+    },
+    {
+      "path": "skills/kongyu-code-review/references/code-reviewer.md",
+      "size": 7227,
+      "sha256": "aedfc408db2989a3eb4485dd9eba5254eb89865a6aa0ba7e802f9242e9b9b012"
+    },
+    {
+      "path": "skills/kongyu-code-review/references/servitor-batch-config.md",
+      "size": 3762,
+      "sha256": "046e7513380eb23b0991553f118542623b47a339102c3f03c9f5b9d0b6144601"
+    },
+    {
+      "path": "skills/kongyu-ppt/SKILL.md",
+      "size": 14320,
+      "sha256": "e0d4bbd901160ed02ef30995eef645a76fe9fb0d731c0c9ad22b67d0230862fa"
+    },
+    {
+      "path": "skills/kongyu-ppt/agents/openai.yaml",
+      "size": 310,
+      "sha256": "f56d6ceee7b5d7c6c084215f28285c6e57a9c39c1e997450abc9e7fc22f41913"
+    },
+    {
+      "path": "skills/kongyu-ppt/references/academic.md",
+      "size": 3691,
+      "sha256": "c6417acf58077c405d6d1a5c032eaa32e69e7843e14627ccc386008dcb5f2a38"
+    },
+    {
+      "path": "skills/kongyu-ppt/references/directing.md",
+      "size": 7136,
+      "sha256": "c76f94bd08b58c5026a27942f59ce0ecbd65f75c6f2219732b36eede85d5aa8e"
+    },
+    {
+      "path": "skills/kongyu-ppt/references/principles-and-derivation.md",
+      "size": 11776,
+      "sha256": "abaa742918db99b691a0f9fa910fc0b72084abb596c38ab5f40ec4e300a6a17b"
+    },
+    {
+      "path": "skills/kongyu-ppt/references/review.md",
+      "size": 20067,
+      "sha256": "010c69f065a1d75e15dfc7e0019f8f7023b0709081c4561d101695084e4d615e"
+    },
+    {
+      "path": "skills/kongyu-ppt/references/teaching-complex-systems.md",
+      "size": 16187,
+      "sha256": "516eb9baae9e97827d6898651b08d27c52b359e78fbd9efb77635e630236ad59"
+    },
+    {
+      "path": "skills/kongyu-ppt/scripts/audience_use_gate.py",
+      "size": 4396,
+      "sha256": "5db70c6c5266e94f1c8f7dfa45c62f91c4ba0bc9d2eb1a06ddce5a70947825a5"
+    },
+    {
+      "path": "skills/kongyu-ppt/scripts/test_audience_use_gate.py",
+      "size": 4685,
+      "sha256": "724a0b18eedfb32c9be6ee535965bc6a24a34cff8142d0863d23a09e46cdc158"
+    },
+    {
+      "path": "skills/kongyu-ppt/scripts/test_method_layers.py",
+      "size": 4427,
+      "sha256": "65544e99feacbfad5e12de27603339f2021627a34ac4c8530a566f95dd277def"
+    },
+    {
+      "path": "skills/kongyu-surface/SKILL.md",
+      "size": 23285,
+      "sha256": "e781e9a02d8474667464e4fd5ba2fe10e8446378d464952fabe6f148024d14cd"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/LICENSE",
+      "size": 1064,
+      "sha256": "4eb0467d029cf990c0d08b8f4a3e05e279ed675f428edbd414fe3126d809da80"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/VENDOR.md",
+      "size": 540,
+      "sha256": "eaeafb40c3b063f9f4699580a268a62635c337e42f995e7beacd730ac40ba8e7"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/default-spec.json",
+      "size": 3003,
+      "sha256": "a65cacd48c4ac64fdb077b43f665037093b14208acb9270ee10901a75e78bb70"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/examples/graph-workflow-spec.json",
+      "size": 1514,
+      "sha256": "76a6f64a21a203f26ada0fd4a0fded907b6ba0772da7f04bdd1f92a3f141a1cd"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/examples/homepage-graph-spec.json",
+      "size": 2520,
+      "sha256": "905158cfc3b69613bd0d6909b468e99b750dca7279e8f8a46f31dafd48aee66c"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/examples/homepage-panorama-spec.json",
+      "size": 2270,
+      "sha256": "67f37cbec1ab61257e8a99ca13b6320133f7c370e8a9eb44f54a39f6e4af7b27"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/examples/illustrated-icon-catalog-spec.json",
+      "size": 3411,
+      "sha256": "2f33f5d34b07c2441ee46569ca96b4f535f2c21c2d796cd750b13d76d96c3b47"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/examples/illustrated-loop-spec.json",
+      "size": 3872,
+      "sha256": "c7000411a8f5d442491dab4f723f7475dbc6deb498f98765141e9ea8bd17a544"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/examples/loop-icon-pack-spec.json",
+      "size": 3168,
+      "sha256": "faf99103742547482585ba39cbf7f5dbfee59143c61163e89eea4340cc290f50"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/examples/swimlane-spec.json",
+      "size": 3292,
+      "sha256": "8526f2a3f46b556496726ee73a2e5b10b5f5055cde1dc8e2095f550dd867f57d"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/fonts/Excalifont-Regular.ttf",
+      "size": 191080,
+      "sha256": "81c0618a16b9672ce33a41003052a9c8a1e1515a29b8e1053886b825501b8d9f"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/fonts/Excalifont-Regular.woff2",
+      "size": 52296,
+      "sha256": "ee41ec4c06bfa0728665499de6f4b4019e7953119ab20b5aeb5917f1609c3b2a"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/fonts/NotoSansSC-Bold.ttf",
+      "size": 2207008,
+      "sha256": "98314f410021f84b96c3c6b1f346271dd93a7d19e2b36fb7dbebf081e0a87c29"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/fonts/NotoSansSC-Bold.woff2",
+      "size": 1017128,
+      "sha256": "e01c636506400319860364d3828406d0d8e523fc1752e93ea0628f997722d20b"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/fonts/NotoSansSC-Regular.ttf",
+      "size": 2208848,
+      "sha256": "d6d61ae5b9822c4ea9cc602793276cccaf41ed874b65174808ef4c0e0b12d731"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/fonts/NotoSansSC-Regular.woff2",
+      "size": 992680,
+      "sha256": "abdad01c82c609ff0cc628fb173e4fbe87e2613873fb580746df521e0be1a9b5"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/fonts/OFL-Excalifont.txt",
+      "size": 4336,
+      "sha256": "0fb43a42d303b7c8119b046e03f5824fbaa1ceda913e1393cb5ea866ec9ed094"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/fonts/OFL-NotoSansSC.txt",
+      "size": 4388,
+      "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/fonts/README.md",
+      "size": 1165,
+      "sha256": "537c617a1c72ff72e20c229534f527ffab8e0c5870aa7bd8bd3a0f183fecf581"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/fonts/notosanssc-coverage.json",
+      "size": 57147,
+      "sha256": "f8b7bbc01e3e7c6618f16c53ed6ab29e509dd2594d70377173fea2452ce3fb22"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/icons/tabler/LICENSE",
+      "size": 1073,
+      "sha256": "b740a1d46122672da62833e97f7e7c8a13fa85cbc7445b584b297cc00dde93db"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/icons/tabler/api.svg",
+      "size": 533,
+      "sha256": "2b58535dbecbca181db5bda06170d525130a3db86c3b35ce6917840b212183fe"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/icons/tabler/arrow-down-circle.svg",
+      "size": 458,
+      "sha256": "6c04c037b12016aff9722bb4476e1f583680c2f1985963a9258e1a29017be95b"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/icons/tabler/brain.svg",
+      "size": 690,
+      "sha256": "0517f8f1cd2b0780bc4101252db226f529d86115a598ec79babb3bdf596d3ecd"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/icons/tabler/calendar-event.svg",
+      "size": 558,
+      "sha256": "63ea485308307c968964cd6f5d9b80f91418efd3f15a2cc4f04535e7aa322076"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/icons/tabler/check.svg",
+      "size": 395,
+      "sha256": "fe359b27c74ed0f4f72bfabbe5ca969a8bb13a5f39648bae63f9e798034ebed3"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/icons/tabler/clipboard-text.svg",
+      "size": 583,
+      "sha256": "8b1537d62bcce127df8c9182591df8b375f20c95199ef4b1904aac467513a0a8"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/icons/tabler/clock.svg",
+      "size": 431,
+      "sha256": "bb582eb2c9d6709d285623bea586e1f532872a9db3d2391308360636e93d199d"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/icons/tabler/cube.svg",
+      "size": 676,
+      "sha256": "f5fde0a39422fd609ffe6ffe14e227cf8609d471722486c018e24d7d53e66a21"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/icons/tabler/database.svg",
+      "size": 497,
+      "sha256": "cf6f390ac33cfa83f054547137ce20e1702f9cc69af10db314ee1dc879f86df7"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/icons/tabler/eye.svg",
+      "size": 532,
+      "sha256": "49dc6603fb775c31b004431972b66075b1a239dc98489f638db73c66386702e4"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/icons/tabler/file-text.svg",
+      "size": 547,
+      "sha256": "b76d018034764160f7661768f56a38003ed208a20843781a0a04aaae01dcbf66"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/icons/tabler/folder.svg",
+      "size": 453,
+      "sha256": "2dff6b74080049d05c695f75a443ffafa88fd7d3c94728f02d64451b2d9181eb"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/icons/tabler/hash.svg",
+      "size": 408,
+      "sha256": "978952f5c5fb62703f61b4b41da2c157a2bfc874f768b38dfbceca7e01e0c017"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/icons/tabler/lock-check.svg",
+      "size": 563,
+      "sha256": "ca06503dd5f7bca9ec8b60b72e2fa844d5132184adf1bdbc5b67a4e9c733628b"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/icons/tabler/message.svg",
+      "size": 525,
+      "sha256": "5e6051240cefb2a1ef76952636aada86f7a32b1594be38fea71289a9d4643f7e"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/icons/tabler/package.svg",
+      "size": 525,
+      "sha256": "f74504c6452c0e0e555280dfff5199c02fae0381b6c3d101afe88809a78887de"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/icons/tabler/photo.svg",
+      "size": 594,
+      "sha256": "2f0a835916079838ea1e8d1934562f3def335ec55540d8fef058f877f34ebc25"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/icons/tabler/search.svg",
+      "size": 422,
+      "sha256": "e579b69a4b978f702908a48b1bef74d9ac73df4679cb1a6074c567bec2748c41"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/icons/tabler/server.svg",
+      "size": 594,
+      "sha256": "dea770376790ac9163ae9898b0a431602e3e35ba835f598835744f9aaaa702d9"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/icons/tabler/settings.svg",
+      "size": 944,
+      "sha256": "d71136dfd83ad19efe1777d01768a5d23d7b295de5dde3b1fccc50806809a423"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/icons/tabler/shield-check.svg",
+      "size": 502,
+      "sha256": "9c3d5fac4793c7df5b3f2418037f16cd2bb7ba217ca5ee619e17b715b2720364"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/icons/tabler/terminal-2.svg",
+      "size": 533,
+      "sha256": "ad87e8361f3f1cf1fa64f0481edb24030d329a4656b0a970525a9355a150c2fe"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/icons/tabler/video.svg",
+      "size": 559,
+      "sha256": "3ad14302fa53dee21672ff2362970dc1c0a11da615243a29c6a095cc4fe76657"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/icons/tabler/world.svg",
+      "size": 542,
+      "sha256": "ab71e6f58782ae4b2aa099ca869627c6051840f95e727d261f0d994c9fac7619"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/vendor/LICENSE-roughjs.txt",
+      "size": 1068,
+      "sha256": "dca9a392272606ac748ac0976a2a1133f14eef841c27beaa51a844d53c56a09d"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/assets/vendor/rough.js",
+      "size": 27762,
+      "sha256": "6853af8619532f3939b156cd16824d2e14f31e71d3df306ad5558eeafacab194"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/references/illustrated-icons.md",
+      "size": 8025,
+      "sha256": "3e9b0bdc4d16278787c8551f381b4909921f63e463def7cef3d5b43882e907ff"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/references/spec-format.md",
+      "size": 7713,
+      "sha256": "e2539614bd5b047f25f3e39ef09db0b94f5c3431a370fe425abba9b65e2aa57c"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/requirements-browser.txt",
+      "size": 246,
+      "sha256": "8e11257482043f423dc9fa3a781489af46d957ad6912e67f3817cce657eab88d"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/requirements.txt",
+      "size": 281,
+      "sha256": "137a9463494b2be086e286b41f927ef4e1c37abe71985cff418124c58b9a6b13"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/scripts/doctor.py",
+      "size": 2509,
+      "sha256": "d2dbeb0c13a1ec57096548c6a7b1110e5ab26c4004d221a24905f1e780fdd895"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/scripts/graph_model.py",
+      "size": 38502,
+      "sha256": "8f06caf414164390e572558f5e2fcbf59b1fa314a617a0e3d897a987b6f2875b"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/scripts/icon_browser.py",
+      "size": 4922,
+      "sha256": "fa46d8845aed741ee37bcc9439b8f7396a15dce9db53bf8a7be641507e236687"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/scripts/prepare_fonts.py",
+      "size": 4616,
+      "sha256": "3c7bc4c50831d12061b611c45b7992261e9d25e21ea6ec1fa3d3b4691078f273"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/scripts/render_animated_diagram.py",
+      "size": 122042,
+      "sha256": "0e6599d2092041fd187b0dbfb504fb0c553b5b68abdfb6273363f76e2fc156c4"
+    },
+    {
+      "path": "skills/kongyu-surface/archscribe/scripts/svg_renderer.py",
+      "size": 144170,
+      "sha256": "93ef5c8ca96fa27cfbfb23372becf18dc9954e6c95c269bb0fc8cd4fe378a071"
+    },
+    {
+      "path": "skills/kongyu-surface/references/ai-anti-patterns.md",
+      "size": 5700,
+      "sha256": "b090e6290ff9a4cee83adf395dba77c37948a16be68aab506e9cb5c681492821"
+    },
+    {
+      "path": "skills/kongyu-surface/references/archscribe-diagram.md",
+      "size": 5252,
+      "sha256": "75f03a21100a382d1221ffbd1951704ebf9464ca8315565ae5ba111839b555d2"
+    },
+    {
+      "path": "skills/kongyu-surface/references/chinese-typography.md",
+      "size": 5001,
+      "sha256": "a851dc72f99d127f83102a43efc48e7479056c8f05dc0f01f8f35c92a7f1e801"
+    },
+    {
+      "path": "skills/kongyu-surface/references/color-palette-roles.md",
+      "size": 9276,
+      "sha256": "ee7c45d7619ba280e2331d62877929365339b4f897dc8fc4c33a3e71049700df"
+    },
+    {
+      "path": "skills/kongyu-surface/references/design-systems-catalog.md",
+      "size": 8496,
+      "sha256": "5cddf823022d98eef3d2df3f2fd21d8e936226aa93b76003adff22fb7970c704"
+    },
+    {
+      "path": "skills/kongyu-surface/references/divergence-playbook.md",
+      "size": 10078,
+      "sha256": "19be9a93a6775f5df0bd49b99be0a5813d00a747278b54d479686f52b525f765"
+    },
+    {
+      "path": "skills/kongyu-surface/references/engineering-checklist.md",
+      "size": 6726,
+      "sha256": "6b6abb3b8463be70644a8aa58c5e3073fe7d21d7140126399bcbe31575078367"
+    },
+    {
+      "path": "skills/kongyu-surface/references/motion-craft.md",
+      "size": 11066,
+      "sha256": "e8d3208c96d3e5169d595a3241012ff7e741796f0f20a2d0fcdcc13d91ddf18e"
+    },
+    {
+      "path": "skills/kongyu-surface/references/preflight.md",
+      "size": 7018,
+      "sha256": "7db9685d2889cf5a25d9a1a182ea38d4c557a22efbd03c6f236899a059e6c053"
+    },
+    {
+      "path": "skills/kongyu-surface/references/reader-surface-style-and-prose.md",
+      "size": 1583,
+      "sha256": "9a26c5bf02d5bd81fa0607eb5ebcc43955041fc372fa163ba35eea36ddd02c3c"
+    },
+    {
+      "path": "skills/kongyu-surface/references/research-workbench-minimalism.md",
+      "size": 3468,
+      "sha256": "ca8a4fa2624c35b9844913d84d34c8a9768110481163c7af037c08088487d0b2"
+    },
+    {
+      "path": "skills/kongyu-surface/references/review-protocols.md",
+      "size": 30553,
+      "sha256": "0f4bcd6a47b4d6f26468b78e97683df98949a59fd7e63fd582a2158502a8f186"
+    },
+    {
+      "path": "skills/kongyu-surface/references/slop-gates.md",
+      "size": 7466,
+      "sha256": "8b56bba2938a7c5b651fcb730cf563a1cd611e7752300762f64437dd3347cca1"
+    },
+    {
+      "path": "skills/kongyu-surface/references/spec-format.md",
+      "size": 276,
+      "sha256": "edcbffdac4154660dbdca4eff04b9aa53e53c31779b51584186eedc421f47a47"
+    },
+    {
+      "path": "skills/kongyu-surface/references/style-preview.md",
+      "size": 15257,
+      "sha256": "abc27c49b5ab166463726be78738ff17e1941f43bf3ba1e49478fe1a45e94917"
+    },
+    {
+      "path": "skills/kongyu-surface/references/vercel-precision-system.md",
+      "size": 11766,
+      "sha256": "6179e1820a8689ae0a488b81acf65d36014fb78f1885668732aebe0c6dac8841"
+    },
+    {
+      "path": "skills/kongyu-writing/SKILL.md",
+      "size": 26815,
+      "sha256": "77930f9b75495fabe1f22bbf923b3f51ef399de4615e567edaada5d34e54d868"
+    },
+    {
+      "path": "skills/kongyu-writing/agents/openai.yaml",
+      "size": 422,
+      "sha256": "f792ce3e7f0a79f72f79e5854699fe0ec68391dd046eb8e193cb245d3714c1bc"
+    },
+    {
+      "path": "skills/kongyu-writing/assets/xiaolab-portal-logo.png",
+      "size": 10283,
+      "sha256": "b0e43ba9de5f07be0e3b638e35b93b4c31fc15ec513c4042b009cb31e536e858"
+    },
+    {
+      "path": "skills/kongyu-writing/references/dialectical-research.md",
+      "size": 7230,
+      "sha256": "1bdeb279d4124d99e3098fe742f86dacb349fdc0b2b4865501172d80932ec5b5"
+    },
+    {
+      "path": "skills/kongyu-writing/references/docu-md-diagram-reference.md",
+      "size": 10872,
+      "sha256": "40c9b484e5402d5715049d5d7852fe473ef21b37c537169f8a6814eab688d07d"
+    },
+    {
+      "path": "skills/kongyu-writing/references/fiction.md",
+      "size": 4910,
+      "sha256": "208ca456a4e9d42051f2fdf103da1e80e9de35f721f8c71f28ac4c43f8e33ec9"
+    },
+    {
+      "path": "skills/kongyu-writing/references/formats.md",
+      "size": 4753,
+      "sha256": "00fdadcdf324ddfb2d4a3bc16843935865c609caa46f23669896ddb6321ca8d1"
+    },
+    {
+      "path": "skills/kongyu-writing/references/forum-prose.md",
+      "size": 21199,
+      "sha256": "db912420fc3aeb6e407389dcdfa1069ea563ecbfde9c73d8a6064924fb238cd1"
+    },
+    {
+      "path": "skills/kongyu-writing/references/interactive-decision-reports.md",
+      "size": 9858,
+      "sha256": "28027b82fc267d33e9a5e0c044ab212be24d53aeb38bd3a27b52ab64ce473e65"
+    },
+    {
+      "path": "skills/kongyu-writing/references/participant-narrative-reports.md",
+      "size": 5896,
+      "sha256": "279136eb2634ba0696d90007d785dde044a58cf8a40a0bb72bff757db25d9b29"
+    },
+    {
+      "path": "skills/kongyu-writing/references/reality.md",
+      "size": 6030,
+      "sha256": "73a20bcc173f0d5479c2b026937c3a5845d2789cb133635e82429088f424b742"
+    },
+    {
+      "path": "skills/kongyu-writing/references/report/decision.md",
+      "size": 1640,
+      "sha256": "89e8bc55c83e059ef1853df2d7a8c13ff804e28c4c537a924d69575e29dfa7c9"
+    },
+    {
+      "path": "skills/kongyu-writing/references/report/delivery.md",
+      "size": 5694,
+      "sha256": "d1b768a8eb8de31199e58ef91a524bfcde1869fbf937c9859ff4c6246b3e9959"
+    },
+    {
+      "path": "skills/kongyu-writing/references/report/examples.md",
+      "size": 4574,
+      "sha256": "8c65d9495903b18f26ee0d16dc1095e171d5cc8af50056cbe12bbaff314729f9"
+    },
+    {
+      "path": "skills/kongyu-writing/references/report/explainer.md",
+      "size": 2627,
+      "sha256": "8af6294dc27a6c8e478519e14cf7a707355e734d520b14137f41cd6c17a21cb8"
+    },
+    {
+      "path": "skills/kongyu-writing/references/report/prose-gate.md",
+      "size": 3268,
+      "sha256": "9b9561d6b402d614e8bd041dabcee3d468f9918693610aa23ff5ab37973bf3c9"
+    },
+    {
+      "path": "skills/kongyu-writing/references/report/result.md",
+      "size": 6670,
+      "sha256": "9d11c64caba533ba1821a31c642c8f3f29090ae1e3531210c77e7bcbb216c287"
+    },
+    {
+      "path": "skills/kongyu-writing/references/report/status.md",
+      "size": 3113,
+      "sha256": "528d8f2e9201c0f6ed2c6b774f0caebd7dfec60150f882b03b5405729205d757"
+    },
+    {
+      "path": "skills/kongyu-writing/references/report/tech-doc.md",
+      "size": 1821,
+      "sha256": "6e6eaf316c57a0ee07226c86ee9ab2ca95ccb4e6648a95e28c338c424e3365db"
+    },
+    {
+      "path": "skills/kongyu-writing/references/report-shells.md",
+      "size": 10666,
+      "sha256": "c94f7932833e93b2a5178b53f30a31617fda9119c47d620369a6bb55168ae086"
+    },
+    {
+      "path": "skills/kongyu-writing/references/research-landscape-synthesis.md",
+      "size": 7656,
+      "sha256": "c2991bc58fc70247f9b78382796462f4e5def84d3a96c5cdf7eff209b393e405"
+    },
+    {
+      "path": "skills/kongyu-writing/references/revision.md",
+      "size": 20551,
+      "sha256": "f7810efc43fb88d21244fb46ecf7a9ab6bb9e955f777e2aa43349216179db99f"
+    },
+    {
+      "path": "skills/kongyu-writing/scripts/check-cold-start-gate.py",
+      "size": 5538,
+      "sha256": "abc84dda9bcab5af35af9d27f491fb5a5549dfc0be3b502b57179c2cad37e00d"
+    },
+    {
+      "path": "skills/kongyu-writing/scripts/check_prose.py",
+      "size": 21932,
+      "sha256": "4f67e942a0cd0133c9830b90e275ca11a208bb222cd61618f925710f379d6425"
+    },
+    {
+      "path": "skills/kongyu-writing/scripts/check_reader_layer.py",
+      "size": 6438,
+      "sha256": "9df3b42b4f1106b8cf6aa645c786a6a4d3e922bcd546036e599228c15b848725"
+    },
+    {
+      "path": "skills/kongyu-writing/scripts/check_zh_report.py",
+      "size": 34021,
+      "sha256": "e52d66c668ba90db0bc980a3b9db0a05bb8db2b8fbd256675020006ffb274b64"
+    }
+  ]
+}

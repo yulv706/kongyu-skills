@@ -1,0 +1,6 @@
+interface:
+  display_name: "流云演示"
+  short_description: "按受众、推理任务与证据组织能讲清楚的演示"
+  default_prompt: "请使用 $kongyu-ppt 按受众已有知识和演讲任务，安排必要前提、页面推理、证据与讲述顺序。"
+policy:
+  allow_implicit_invocation: true

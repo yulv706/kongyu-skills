@@ -1,0 +1,4 @@
+interface:
+  display_name: "流云写作"
+  short_description: "中文报告、创作与思辨研究写作的统一 skill：材料先行，证据、主张、审议、人工裁决后再成稿"
+  default_prompt: "使用 $kongyu-writing 完成面向真人的中文写作。普通任务按报告或创意模式；需要先查证、建主张账本、审议观点并由人裁决时，使用思辨研究模式的六个阶段。"
